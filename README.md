@@ -6,7 +6,7 @@ A full end-to-end data science project analyzing customer churn behavior for a t
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 telco-customer-churn-analysis/
@@ -38,7 +38,7 @@ The dataset contains **7,043 rows** and **21 columns** describing telecom custom
 
 ---
 
-## 🔬 Project Walkthrough
+## Project Walkthrough
 
 ### Assignment 1 — Data Exploration & Preparation
 
@@ -145,7 +145,7 @@ The top 3 churn drivers identified by the Random Forest:
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 1. Clone the repository
 ```bash
