@@ -1,4 +1,4 @@
-# 📞 Telco Customer Churn Analysis
+#  Telco Customer Churn Analysis
 
 A full end-to-end data science project analyzing customer churn behavior for a telecommunications company. The project covers data cleaning, exploratory data analysis, and machine learning modeling — built across 3 structured assignments.
 
@@ -18,7 +18,7 @@ telco-customer-churn-analysis/
 
 ---
 
-## 🧩 Dataset Overview
+## Dataset Overview
 
 The dataset contains **7,043 rows** and **21 columns** describing telecom customers and whether they churned.
 
@@ -167,7 +167,7 @@ jupyter notebook churn_analysis.ipynb
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 | Library | Purpose |
 |---|---|
@@ -179,7 +179,7 @@ jupyter notebook churn_analysis.ipynb
 
 ---
 
-## 📊 Key Results Summary
+## Key Results Summary
 
 - **Best model:** Logistic Regression (with `class_weight='balanced'`)
 - **Recall on churners:** 77.96%
@@ -189,7 +189,7 @@ jupyter notebook churn_analysis.ipynb
 
 ---
 
-## 📌 Limitations & Next Steps
+## Limitations & Next Steps
 
 **Current limitations:**
 - Model trained on historical data only — may not reflect future market behavior
